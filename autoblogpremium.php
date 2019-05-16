@@ -2,7 +2,7 @@
 /*
 Plugin Name: AutoBlog
 Version: 4.1.1
-Plugin URI: http://premium.wpmudev.org/project/autoblog
+Plugin URI: https://github.com/wpmudev/autoblog/
 Description: This plugin automatically posts content from RSS feeds to different blogs on your WordPress Multisite...
 Author: WPMU DEV
 Author URI: http://premium.wpmudev.org/
